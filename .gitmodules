@@ -1,6 +1,0 @@
-[submodule "vendor/minhook"]
-	path = vendor/minhook
-	url = https://github.com/TsudaKageyu/minhook.git
-[submodule "vendor/argparse"]
-	path = vendor/argparse
-	url = https://github.com/p-ranav/argparse.git
